@@ -16,6 +16,7 @@ int main(){
     }
     if(a>d)
     cout<<"Anton"<<endl;
+        
     else if(a<d)
     cout<<"Danik"<<endl;
     else if(a==d)
